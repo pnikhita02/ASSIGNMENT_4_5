@@ -1,5 +1,3 @@
-/*Author : Raj Roy*/
-
 #include<stdio.h>
 #include<stdlib.h>
 
